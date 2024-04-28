@@ -1,3 +1,2 @@
-Esta es una sesion de información
-  lenguaje
-  código 
+# Esta es una sesion de información
+lenguaje que se usa es bash
