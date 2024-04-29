@@ -1,2 +1,6 @@
-# Esta es una sesion de información
-lenguaje que se usa es bash
+# Caso de uso
+Como realizar pruebas de unidad automatizadas en CD|CD pipeline
+para lamda
+# Como ejecutarlo
+Por favor seguir las instrucciones del siguientevideo de youtube
+
